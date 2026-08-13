@@ -31,3 +31,4 @@ services:
 volumes:
   db_data:
 # healthcheck: esperar a que la BD esté lista
+# healthcheck: esperar a que la BD esté lista
