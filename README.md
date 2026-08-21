@@ -5,7 +5,7 @@
 Sample full-stack de la cátedra **Ingeniería del Software 3 — UCC**. Es la app de referencia que se usa en las demos en vivo de las clases: chica a propósito, con la misma estructura que las guías de TP asumen para tu app del semestre.
 
 **Stack**: backend **.NET 8** (minimal API) · frontend **React + Vite** · base de datos **PostgreSQL**.
-
+EJEMPLO
 ## Qué hace
 
 Una lista de tareas mínima. La API expone tres endpoints CRUD:
